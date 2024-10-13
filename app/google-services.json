@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935243091831",
+    "project_id": "quanlysanpham-d79c5",
+    "storage_bucket": "quanlysanpham-d79c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935243091831:android:002050ef2b2f816f769b72",
+        "android_client_info": {
+          "package_name": "com.example.quanlysanpham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVaPLJTqUNlfiQSUe2J4zHZj4sLqZid8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
